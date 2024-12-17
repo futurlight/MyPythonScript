@@ -13,9 +13,9 @@
 
 
 d_source中csv需要按照以下格式：
-
-hostname,ip,port,username,password
-sw1,192.168.4.1,22,admin,password
-sw2,192.168.4.2,22,admin,password
+#csv文件格式
+hostname,ip,port,username,password  
+sw1,192.168.4.1,22,admin,password  
+sw2,192.168.4.2,22,admin,password  
 
 
